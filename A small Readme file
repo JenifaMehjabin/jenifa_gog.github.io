@@ -1,0 +1,23 @@
+<h1>ABC India Web Application</h1>
+<h2>This is a simple single-page web application that simulates a basic website for "ABC India" with navigation, user authentication, and a dashboard.<h2>
+
+<h3>Features</h3>
+Pages: Home, About Us, Contact Us, Login, and Sign Up.
+User Authentication: Users can sign up, log in, access a dashboard, and log out.
+Dashboard: Provides a welcome message and navigation links for logged-in users.
+Data Storage: Uses localStorage for storing and retrieving user data.
+
+<h3>Technologies Used</h3>
+HTML for structure.
+CSS for styling.
+JavaScript for functionality and localStorage management.
+
+<h3>How It Works</h3>
+Navigation: Links show specific sections using JavaScript.
+Sign Up/Login: User data is stored in localStorage. Sign-up creates a new account; login checks credentials.
+Dashboard: Shows after login, with options to change password (non-functional) and log out.
+
+<h3>How to Run</h3>
+Download or clone the repository.
+Open the HTML file in a web browser.
+Navigate through links and test sign-up and login features.
